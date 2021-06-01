@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 15px;
+    font-size: 20pt;
+}
+
+table {
+    border: none;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+    background-color: #114488;
+    border: solid 1px #114488;
+    color: white;
+    padding: 12px;
+}
+
+td {
+    border: solid 1px #114488;
+    padding: 12px;
+}
